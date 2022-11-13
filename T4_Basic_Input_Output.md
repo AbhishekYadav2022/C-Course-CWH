@@ -9,8 +9,8 @@
 - Since they are used by the language itself, these keywords are not available for re-definition or overloading.
 - In short, you cannot create a variable with these names.
 
-![Keywords List](CPP%20Keywords.png)
+![Keywords List](Images/CPP_Keywords.png)
 
 ### :fire: Data Type Size And Range In C++
 
-![Keywords List](Datatype%20Table.png)
+![Keywords List](Images/Datatype_Table.png)

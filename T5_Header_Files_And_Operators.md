@@ -8,4 +8,7 @@
 ### Operators In C++
 #### Types of operators in C++:
 1. Arithmetic operators
-2. 
+2. Assignment operators
+3. Comparison operators
+4. Logical operators
+5. Bitwise operators
